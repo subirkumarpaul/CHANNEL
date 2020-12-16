@@ -1,9 +1,6 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-#EXTINF:-1,Gazi TV
 http://103.132.180.245:8080/1/index.m3u8
-#EXTINF:-2,Gazi TV
 http://mtv.sports.bdfun.club:80/live/my-stream-key/index.m3u8
-#EXTINF:-3,Gazi TV
 http://master.beeiptv.com:8081/LAW/gazitv/playlist.m3u8
